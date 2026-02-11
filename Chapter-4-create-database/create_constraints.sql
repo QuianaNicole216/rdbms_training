@@ -14,3 +14,10 @@ CREATE TABLE netflix.titles1
 	imdb_score decimal(2,1),
 	imdb_votes integer
 );
+-----------------------------------------------------
+CREATE TABLE mytable
+	a integer,
+	b integer,
+	c integer,
+	PRIMARY KEY (a, c)
+);
