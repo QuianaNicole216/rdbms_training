@@ -1,0 +1,2 @@
+CREATE SCHEMA netflix;
+CREATE SCHEMA imdb
