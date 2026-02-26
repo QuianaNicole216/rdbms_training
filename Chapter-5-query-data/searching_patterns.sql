@@ -18,5 +18,8 @@ WHERE
 ---------------------------------------------
 SELECT title, title_type
 FROM netflix.titles;
+WHERE
+	title LIKE '%Top%'
+----------------------------------------------
 */
 	
